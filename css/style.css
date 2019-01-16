@@ -198,7 +198,7 @@ img {
 
   .main__works__text-box {
     display: flex;
-    align-items: center;
+    align-items: flex-end;
   }
 
   .main__works__text {
